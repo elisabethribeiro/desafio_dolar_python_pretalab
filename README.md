@@ -1,7 +1,7 @@
-# 💵 Análise da Cotação do Dólar em 2023
+# Análise da Cotação do Dólar em 2023 com Python
 
 ## 📌 Sobre o projeto
-Este projeto foi parte do processo seletivo do Ciclo 15 | Python para Análise de Dados (Pretalab) e teve como objetivo avaliar minha familiaridade com o uso de Python para análise de dados, incluindo leitura de arquivos CSV, inspeção inicial do dataset e criação de um gráfico simples.
+Este projeto foi desenvolvido como parte do processo seletivo para o Ciclo 15 | Python para Análise de Dados da PretaLab e teve como objetivo avaliar minha familiaridade com o uso de Python para análise de dados, incluindo leitura de arquivos CSV, inspeção inicial do dataset e criação de um gráfico simples.
 
 A análise foi realizada a partir de um dataset público, com foco em explorar os dados, tratar a variável de data e visualizar o comportamento da moeda ao longo do tempo.
 
@@ -63,8 +63,8 @@ A análise foi realizada a partir de um dataset público, com foco em explorar o
 
 ## 💡 Conclusão
 
-- A análise mostra que o dólar apresentou oscilações ao longo de 2023, com uma leve tendência de queda ao longo do ano. Esse comportamento pode estar relacionado a fatores econômicos e mudanças ao longo do período. 
-- Apesar das variações, o comportamento geral foi relativamente estável.
+A análise indica uma leve tendência de queda na cotação do dólar ao longo de 2023, com relativa estabilidade no período observado.
+Os resultados permitem identificar padrões gerais de comportamento da série temporal, dentro do escopo de uma análise descritiva.
 
 ---
 
@@ -73,10 +73,3 @@ A análise foi realizada a partir de um dataset público, com foco em explorar o
 - A análise não considera fatores econômicos externos
 - Não foram aplicados modelos estatísticos ou preditivos
 - O foco foi apenas na visualização e análise descritiva
-
-
----
-
-## 👩🏽‍💻 Autora
-Elisabeth Aparecida Ribeiro  
-Estudante em transição de carreira para a área de dados
