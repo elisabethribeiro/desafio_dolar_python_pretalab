@@ -1,4 +1,12 @@
-# Análise da Cotação do Dólar em 2023 com Python
+# 💵 Análise da Cotação do Dólar em 2023 com Python
+
+## Acesse o projeto
+
+<a href="https://colab.research.google.com/github/elisabethribeiro/desafio_dolar_python_pretalab/blob/main/desafio_dolar2023.ipynb" target="blank"> 
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+---
 
 ## 📌 Sobre o projeto
 Este projeto foi desenvolvido como parte do processo seletivo para o Ciclo 15 | Python para Análise de Dados da PretaLab e teve como objetivo avaliar minha familiaridade com o uso de Python para análise de dados, incluindo leitura de arquivos CSV, inspeção inicial do dataset e criação de um gráfico simples.
