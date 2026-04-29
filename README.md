@@ -6,6 +6,10 @@
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## ⚙️ Execução
+
+O notebook pode ser executado diretamente no Google Colab, sem necessidade de instalação local.
+
 ---
 
 ## 📌 Sobre o projeto
